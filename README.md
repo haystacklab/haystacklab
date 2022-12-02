@@ -2,10 +2,11 @@ Hi,
 
 This is a brief introduction to my programming experience and interests over the years.
 
-I've create the following roadmap for prospective employers to check my skillset in the following project:
+I've created the following roadmap so that prospective employers can check my skillset using the following project:
 
 ## Project name: Journal website
 
+- Project planning: architecture, data flow diagrams, design pattern, complete picture
 - Front end (ReactJS): <link>
 - Back end (SpringBoot, mongoDB/SQL):
 - Jenkins server details:
