@@ -6,7 +6,7 @@ I've created the following roadmap so that prospective employers can check my sk
 
 ## Project name: Journal website
 
-- Project planning: architecture, data flow diagrams, design pattern, complete picture
+- Project planning: architecture, data flow diagrams, design pattern, complete picture, UI wireframes
 - Front end (ReactJS): <link>
 - Back end (SpringBoot, mongoDB/SQL):
 - Jenkins server details:
